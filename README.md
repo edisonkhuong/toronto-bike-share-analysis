@@ -183,7 +183,7 @@ An interactive dashboard was built in Tableau Public containing 5 views:
 4. **Trip Frequency by Day and Hour** — heatmap showing rush hour and weekend patterns
 5. **Trips by Day of Week: Member vs Casual** — side-by-side bar chart comparing user behaviour by day
 
-> 📊 [View the Tableau Dashboard](https://public.tableau.com/views/TorontoBikeShare2018-RidershipAnalysis/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) ← *(replace with your Tableau Public link)*
+> 📊 [View the Tableau Dashboard](https://public.tableau.com/views/TorontoBikeShare2018-RidershipAnalysis/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) 
 
 ---
 
