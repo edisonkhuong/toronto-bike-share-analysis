@@ -240,4 +240,4 @@ project_1/
 
 ---
 
-*Analysis by [Your Name] | Tools: Python, PostgreSQL, Tableau Public*
+*Analysis by [Edison Khuong] | Tools: Python, PostgreSQL, Tableau Public*
