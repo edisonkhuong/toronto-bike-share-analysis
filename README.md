@@ -2,6 +2,7 @@
 
 A full end-to-end data analysis project exploring ridership patterns in Toronto's Bike Share program using Python, PostgreSQL, and Tableau.
 
+![Dashboard](toronto_bike_share_dashboard.png)
 ---
 
 ## Table of Contents
